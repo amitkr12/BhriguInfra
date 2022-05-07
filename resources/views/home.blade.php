@@ -73,7 +73,7 @@
 
             <div class="row d-flex align-items-center">
 
-                <div class="col-sm-2 col-5"> <a href="{{url('/')}}" id="logo" data-tilt> <img src="{{url('../images/logo.png')}}" /> </a>  </div>
+                <div class="col-sm-2 col-5"> <a href="{{url('/')}}" id="logo" data-tilt> <img src="{{url('../images/logo.jpg')}}" /> </a>  </div>
 
                 <div class="col-sm-6 col-1">
 
@@ -137,7 +137,7 @@
 
                         <div class="banner-content-holder" data-aos="fade-right" data-aos-delay="100">
 
-                            <h1 class="Blogs-heading">Pantel Technologies Private Limited(Under Liquidation)</h1>
+                            <h1 class="Blogs-heading">Bhrigu Infra Private Limited</h1>
 
                         </div>
 
