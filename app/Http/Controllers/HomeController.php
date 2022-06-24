@@ -52,10 +52,9 @@ class HomeController extends Controller
 
     public function deleteFiles(Media $media){
         $file=storage_path('app/files/'.$media->full_path);
-//        dd($file);
-//        if($file){
-//            unlink($file);
-//        }
+        if($file){
+            unlink($file);
+        }
         $media->delete();
         return redirect()->back()->with('success','File deleted successfully');
     }

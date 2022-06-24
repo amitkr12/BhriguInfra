@@ -137,7 +137,7 @@
 
                         <div class="banner-content-holder" data-aos="fade-right" data-aos-delay="100">
 
-                            <h1 class="Blogs-heading">Bhrigu Infra Private Limited Under CIRP</h1>
+                            <h1 class="Blogs-heading">{{ env('APP_NAME') }}</h1>
 
                         </div>
 
